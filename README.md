@@ -539,14 +539,7 @@ GitHub Repository. https://github.com/yourusername/churn-prediction
 4. ✅ Train your team on interpreting insights
 5. ✅ Measure ROI monthly and optimize
 
-### Need Help?
 
-- 📧 **Email:** contact@churnprediction.ai
-- 💬 **Slack:** [Join our community](https://slack.com)
-- 📖 **Documentation:** [Full docs here](https://docs.churnprediction.ai)
-- 🎥 **Tutorials:** [YouTube Channel](https://youtube.com)
-
----
 
 <div align="center">
 
